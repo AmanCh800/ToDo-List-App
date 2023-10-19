@@ -3,4 +3,4 @@ This application provides you a todo list UI, so that you can write the activiti
 
 This app was built using Node.js, Express.js, EJS, ES6, MongoDB for database, MongoDB Atlas for hosting database on AWS cloud, HTML5, CSS3.
 
-To run this app on the browser, navigate to the link:
+To run this app on the browser, navigate to the link: https://todo-list-app-90q2.onrender.com/
